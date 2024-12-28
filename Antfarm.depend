@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1735356380 source:c:\users\pmls\desktop\antfarm\main.cpp
+	<iostream>
+	<vector>
+	<memory>
+	<map>
+	<random>
+	<string>
+	<algorithm>
+
